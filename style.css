@@ -13,3 +13,7 @@ h1 {
   text-align: center;
   font-size: 24pt;
 }
+
+a,a:visited {
+  color: white;
+}
