@@ -1,0 +1,15 @@
+body {
+  color: white;
+  background-color: #222222;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+h1 {
+  text-align: center;
+  font-size: 144pt;
+}
+
+#register {
+  text-align: center;
+  font-size: 24pt;
+}
